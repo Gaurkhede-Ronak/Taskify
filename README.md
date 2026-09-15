@@ -1,6 +1,4 @@
 <div align="center">
-  
-  <img src="taskify/public/logo.png" alt="Taskify Banner" width="100%" style="border-radius: 15px;"/>
 
   <h1>🚀 Taskify - Project Management Dashboard</h1>
   <p><em>A modern, highly responsive, and feature-rich workspace for teams and individuals.</em></p>
